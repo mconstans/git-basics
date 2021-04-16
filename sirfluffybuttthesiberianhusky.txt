@@ -1,3 +1,5 @@
 Git Basics
 
 I am learning Git and how to post repos to Github. This is a file about Huskies. I love my Husky, he has a fluffy butt and is a big dork. <3
+
+His name is Laika. 
